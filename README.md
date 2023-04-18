@@ -25,7 +25,13 @@ Here I begin building my own custom API server, which will provide data for the 
     ├── README.md
     └── server.js
 
+## Features
 
+    Name of feature: Set up your server repository. Reach 'Hello World'.
+    Estimate of time needed to complete:            30 min
+    Start time:                                     12:10
+    Finish time:                                    12:40
+    Actual time needed to complete:                 30 min
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
