@@ -1,7 +1,7 @@
 # City-Explorer-API
 
 **Author**: Aaron Imbrock
-**Version**: 1.0.0
+**Version**: 1.1.0
 
 ## Overview
 
@@ -20,6 +20,8 @@ Here I begin building my own custom API server, which will provide data for the 
 
     ├── data
     │   └── weather.json
+    ├── modules
+    │   └── photos.js
     ├── package.json
     ├── package-lock.json
     ├── README.md
@@ -32,6 +34,14 @@ Here I begin building my own custom API server, which will provide data for the 
     Start time:                                     12:10
     Finish time:                                    12:40
     Actual time needed to complete:                 30 min
+
+    
+    Name of feature: Performance: As a user, I want the application to work with recent results, 
+    so that I can see info without the app doing unnecessary API calls.
+    Estimate of time needed to complete:            -
+    Start time:                                     -
+    Finish time:                                    -
+    Actual time needed to complete:                 -
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
